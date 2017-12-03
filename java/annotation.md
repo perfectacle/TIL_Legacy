@@ -18,4 +18,5 @@ public void test2() {}
 오류가 떠야 정상인데 묵인해야하는 경우가 있을 수 있는데(물론 컴파일/런타임 시에 에러가 없다는 가정 하에...)  
 이 어노테이션을 붙이면 됨. 어쩔 수 없을 때만 써야지 오류 보기 싫다고 마구잡이로 쓰면 안 됨.  
 
-## @SafeVargs
+## @SafeVarargs
+Varargs, Variable Arguments, 가변인자를 뜻한다.  
