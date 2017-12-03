@@ -1,1 +1,0 @@
-1. [인텔리제이에서 빈 패키지 보이기](intellij-show-empty-package/README.md)
