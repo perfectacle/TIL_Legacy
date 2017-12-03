@@ -8,5 +8,11 @@
   "structure": {
     "readme": "README.md",
     "summary": "SUMMARY.md"
+  },
+  "plugins": ["disqus"],
+  "pluginsConfig": {
+    "disqus": {
+      "shortName": "perfectacle"
+    }
   }
 }

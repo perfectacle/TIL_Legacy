@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/perfectacle/TIL#readme",
   "dependencies": {
+    "gitbook-plugin-disqus": "^1.0.1",
     "gitbook-summary": "^1.1.4"
   }
 }
