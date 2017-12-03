@@ -1,15 +1,14 @@
-# gitbook 설정
-* book.json  
+# [gitbook 설정](https://toolchain.gitbook.com/structure.html)
+* [book.json](https://toolchain.gitbook.com/config.html)  
 gitbook은 엄연한 책(?)이므로 책에 대한 설정을 다 정할 수 있다.  
 다양한 설정(제목, 설명, 언어 등등)을 할 수 있다.  
-자세한 내용은 [Gitbook - Configuration](https://toolchain.gitbook.com/config.html)을 참고하자.  
 * README  
 책의 들어가기에 앞서... 정도로 보면 될 것 같다.  
-* SUMMARY  
+* [SUMMARY](https://toolchain.gitbook.com/pages.html)  
 디렉토리를 정하면 알아서 깃북 목차에 박힐 줄 알았는데 이걸 일일이 추가해줘야했다.  
 깃헙에서 볼 때는 상관 없지만 깃북을 위해서는 이 파일을 만들어줘야한다.  
 목차를 디렉토리 구조에 맞게 뿌릴 필요 없이 유연하게 정할 수 있다.  
-* GLOSSARY  
+* [GLOSSARY](https://toolchain.gitbook.com/lexicon.html)  
 처음보는 영단어였다 ㅎㅎ 덕분에 영어 공부도...  
 **용어 사전**이란 뜻이다.  
 하지만 역시 비영문권은 넘나 슬프다 ㅠㅠ  
