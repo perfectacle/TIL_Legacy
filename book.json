@@ -4,6 +4,7 @@
   "author": "양권성",
   "language": "ko",
   "gitbook": ">= 3.2.2",
+  "ignores": ["node_modules"],
   "structure": {
     "readme": "README.md",
     "summary": "SUMMARY.md"
