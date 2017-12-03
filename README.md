@@ -19,5 +19,6 @@ n은 1 이상의 수를 뜻한다.
         3. 3일  
             * [java - reifiable type](/java/reifiable-type.md)  
             * [java - 어노테이션](/java/annotation.md)  
+            * [java - 클래스 객체](/java/class-object.md)  
             * [etc. - gitbook 설정](/etc/gitbook-config.md)  
-            * [etc. - 맥에서 백틱(`) 입력시 원화(₩) 표시되는 문제 해결하기](/etc/mac-os-typing-backtick.md)
+            * [etc. - 맥 OS에서 백틱(`)입력하기](/etc/mac-os-typing-backtick.md)
