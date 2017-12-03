@@ -9,7 +9,7 @@
     "readme": "README.md",
     "summary": "SUMMARY.md"
   },
-  "plugins": ["disqus", "ga"],
+  "plugins": ["disqus", "ga", "summary"],
   "pluginsConfig": {
     "disqus": {
       "shortName": "perfectacle"
