@@ -26,4 +26,5 @@ n은 1 이상의 수를 뜻한다.
             * [java - 어노테이션](/java/annotation.md)  
             * [java - 클래스 객체](/java/class-object.md)  
             * [etc. - gitbook 설정](/etc/gitbook-config.md)  
-            * [etc. - 맥 OS에서 백틱(`)입력하기](/etc/mac-os-typing-backtick.md)
+            * [etc. - 맥 OS에서 백틱(`)입력하기](/etc/mac-os-typing-backtick.md)  
+            * [IDE - 인텔리제이에서 빈 패키지 보이기](/ide/intellij-show-empty-package/README.md)
