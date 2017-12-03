@@ -1,6 +1,5 @@
 ---
 disqus: false
-
 ---
 
 # Today I Learned
