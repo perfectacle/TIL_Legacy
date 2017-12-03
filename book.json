@@ -9,7 +9,7 @@
     "readme": "README.md",
     "summary": "SUMMARY.md"
   },
-  "plugins": ["disqus", "ga"],
+  "plugins": ["ga"],
   "pluginsConfig": {
 
     "ga": {
