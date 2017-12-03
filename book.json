@@ -1,0 +1,11 @@
+{
+  "title": "TIL: 나태함 극복 프로젝트",
+  "description": "나태해서 공부를 안 하는 나 자신을 극복하기 위한 프로젝트",
+  "author": "양권성",
+  "language": "ko",
+  "gitbook": ">= 3.2.2",
+  "structure": {
+    "readme": "README.md",
+    "summary": "SUMMARY.md"
+  }
+}
