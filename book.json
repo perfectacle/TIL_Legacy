@@ -9,10 +9,13 @@
     "readme": "README.md",
     "summary": "SUMMARY.md"
   },
-  "plugins": ["disqus"],
+  "plugins": ["disqus", "ga"],
   "pluginsConfig": {
     "disqus": {
       "shortName": "perfectacle"
+    },
+    "ga": {
+      "token": "UA-87795455-2"
     }
   }
 }
