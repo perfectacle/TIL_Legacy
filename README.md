@@ -26,4 +26,7 @@ n은 1 이상의 수를 뜻한다.
             * [java - 클래스 객체](/java/class-object.md)  
             * [etc. - gitbook 설정](/etc/gitbook-config.md)  
             * [etc. - 맥 OS에서 백틱(`)입력하기](/etc/mac-os-typing-backtick.md)  
-            * [IDE - 인텔리제이에서 빈 패키지 보이기](/ide/intellij-show-empty-package/README.md)
+            * [IDE - 인텔리제이에서 빈 패키지 보이기](/ide/intellij-show-empty-package/README.md)  
+        4. 4일 - 야근을 하느라 실질상 5일에 커밋
+            * [Spring Boot - @Transactional 어노테이션 고찰](/spring-boot/transactional-commit.md)
+            * [java - forEach vs for](/java/for-each-vs-for.md)
