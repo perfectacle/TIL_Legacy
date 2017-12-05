@@ -30,3 +30,6 @@ n은 1 이상의 수를 뜻한다.
         4. 4일 - 야근을 하느라 실질상 5일에 커밋
             * [Spring Boot - @Transactional 어노테이션 고찰](/spring-boot/transactional-commit.md)
             * [java - forEach vs for](/java/for-each-vs-for.md)
+        5. 5일 - 야근 하느라 뭐 정리할 시간도 없고 기억 했던 거도 까먹...  
+            * [AWS - API 게이트웨이](/aws/api-gateway.md)  
+            * [network - IP 주소](/network/ip-address.md)
