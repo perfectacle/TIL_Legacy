@@ -9,6 +9,10 @@
     1. [IP 주소](/network/ip-address.md)
 4. AWS  
     1. [API 게이트웨이](/aws/api-gateway.md)  
+    2. [Route53](/aws/route-53.md)  
+    3. [Elastic Load Balancer](/aws/elastic-load-balancer.md)
+    4. [VPC Link](/aws/vpc-link.md)
+    5. [Elastic Beanstalk](/aws/elastic-beanstalk.md)
 2. IDE
     1. [인텔리제이에서 빈 패키지 보이기](/ide/intellij-show-empty-package/README.md)  
 3. etc.

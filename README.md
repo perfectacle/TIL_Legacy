@@ -32,4 +32,9 @@ n은 1 이상의 수를 뜻한다.
             * [java - forEach vs for](/java/for-each-vs-for.md)
         5. 5일 - 야근 하느라 뭐 정리할 시간도 없고 기억 했던 거도 까먹...  
             * [AWS - API 게이트웨이](/aws/api-gateway.md)  
-            * [network - IP 주소](/network/ip-address.md)
+            * [network - IP 주소](/network/ip-address.md)  
+        6. 6일 - 집에 일찍 가고 싶었으나... api 게이트웨이 + 빈스톡 + route 53 + certificate manager 등등 설정할 게 넘나 많아서 야근을... 흑흑...  
+            * [AWS - Route53](/aws/route-53.md)  
+            * [AWS - Elastic Load Balancer](/aws/elastic-load-balancer.md)
+            * [AWS - VPC Link](/aws/vpc-link.md)
+            * [AWS - Elastic Beanstalk](/aws/elastic-beanstalk.md)
