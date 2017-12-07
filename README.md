@@ -37,4 +37,10 @@ n은 1 이상의 수를 뜻한다.
             * [AWS - Route53](/aws/route-53.md)  
             * [AWS - Elastic Load Balancer](/aws/elastic-load-balancer.md)
             * [AWS - VPC Link](/aws/vpc-link.md)
-            * [AWS - Elastic Beanstalk](/aws/elastic-beanstalk.md)
+            * [AWS - Elastic Beanstalk](/aws/elastic-beanstalk.md)  
+        7. 7일 - 남의 말을 새겨듣자... 테스트 포인트나 벨리데이션 포인트를 놓치는 경우가 많다 ㅠㅠㅠ...  
+        또한 나는 미션 중심(How to)만 찾고, 원리를 찾아서 이해할 생각을 크게 하지 못한다...  
+        그리고 레거시를 두려워하고, 이슈 포인트를 잘 캐치해내서 이슈 제기 및 문제 해결을 위해 공유해야하는 자세를 가져야겠다!  
+            * [AWS - VPC 링크에 파라미터 넘기기](/aws/vpc-link-parameter.md)  
+            * [etc - Character Separated Value](/etc/character-separated-value.md)  
+            * [이것 저것 짜치는 것들...](/etc/20171207.md)  
