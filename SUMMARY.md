@@ -11,7 +11,7 @@
   * [맵의 참조 관계](01-java/map-reference.md)
   * [Reifiable Type](01-java/reifiable-type.md)
 - Spring Boot
-  * [Commit](02-spring-boot/transactional-commit.md)
+  * [Transactional 어노테이션 고찰](02-spring-boot/transactional-commit.md)
 - Network
   * [IP 주소](03-network/ip-address.md)
 - Aws
