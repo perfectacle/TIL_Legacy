@@ -1,3 +1,7 @@
+---
+title: gitbook 설정
+---
+
 # [gitbook 설정](https://toolchain.gitbook.com/structure.html)
 * [book.json](https://toolchain.gitbook.com/config.html)  
 gitbook은 엄연한 책(?)이므로 책에 대한 설정을 다 정할 수 있다.  

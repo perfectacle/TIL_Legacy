@@ -1,3 +1,7 @@
+---
+title: Elastic Beanstalk
+---
+
 # Elastic Beanstalk
 기본적으로 EB는 오토스케일링 + CD(Continuous Delivery, 무중단 배포) + 헬스 체크 + ELB를 통으로 묶어놓은 아주 효자 서비스이다.  
 하지만 VPC 잘못 설정하고 로드밸런스 타입 잘못 설정하고 하면 Environment를 재생성해야한다는 제약이 존재한다...  

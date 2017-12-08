@@ -1,3 +1,7 @@
+---
+title: Character Separated Value
+---
+
 # Character Separated Value
 나는 여태까지 CSV하면 Comma Separated Value인 줄 알았다.  
 하지만 케릭터로 구분하는 밸류란 뜻도 가지고 있고 나름 표준([RFC4180](https://tools.ietf.org/html/rfc4180))도 있다.  

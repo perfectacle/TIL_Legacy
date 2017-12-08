@@ -1,3 +1,7 @@
+---
+title: forEach vs for
+---
+
 # forEach vs for
 js와 유사한 결과다.  
 문법을 잘 몰라서 테스트  

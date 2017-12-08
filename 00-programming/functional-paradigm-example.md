@@ -1,3 +1,7 @@
+---
+title: 함수형 패러다임의 예
+---
+
 # 함수형 패러다임의 예
 ```javascript
 function ignoreAssets(mw) {

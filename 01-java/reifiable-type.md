@@ -1,3 +1,7 @@
+---
+title: reifiable type
+---
+
 # reifiable type
 re(다시) -ify(~화 하다) able(~할 수 있는)  
 다시 ~화 할 수 있는 타입 이라는 엉성한 뜻이니 그냥 영어 느낌 그대로 끌고 가야할 것 같다.  

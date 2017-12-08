@@ -1,3 +1,7 @@
+---
+title: VPC 링크에 파라미터 넘기기
+---
+
 # VPC 링크에 파라미터 넘기기
 API Gateway에서 분명 파라미터를 넘겼는데 vpc 내의 인스턴스에서는 못 받는 사건이 발생...  
 알고 보니 API의 Method Request에 추가한 파라미터들을 Integration Request(VPC 링크 단)에도 토스를 해줘야하는 거였다.  

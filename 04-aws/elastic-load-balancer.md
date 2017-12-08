@@ -1,3 +1,7 @@
+---
+title: Elastic Load Balancer
+---
+
 # Elastic Load Balancer  
 기본적으로 걍 로드밸런서를 지원해주는 서비스라고 보면 됨.  
 근데 그냥 얘네는 엘라스틱 강박 관념이 있는 듯...  

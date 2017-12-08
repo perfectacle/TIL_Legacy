@@ -1,4 +1,8 @@
-# VPC Link  
+---
+title: VPC Link
+---
+
+# VPC Link
 API Gateway에서 쓰는 기술인 듯...  
 VPC(private) 자원에 접근하기 위한 링크같다.  
 API Gateway(문지기)는 public이고 그 문지기가 private 자원에 접근하고자 하는데  
