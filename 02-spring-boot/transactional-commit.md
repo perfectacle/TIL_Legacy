@@ -1,3 +1,7 @@
+---
+title: Transactional 어노테이션 고찰
+---
+
 # @Transactional 어노테이션 고찰
 아주 간단한 고찰  
 JPA에서 save 메소드를 호출하지도 않았는데 지가 알아서 업데이트를 침.  
