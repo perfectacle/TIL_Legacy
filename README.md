@@ -44,3 +44,8 @@ n은 1 이상의 수를 뜻한다.
             * [AWS - VPC 링크에 파라미터 넘기기](/aws/vpc-link-parameter.md)  
             * [etc - Character Separated Value](/etc/character-separated-value.md)  
             * [이것 저것 짜치는 것들...](/etc/20171207.md)  
+        8. 8일 - 한 주가 끝났다, TIL을 해보니 내가 모르는 게 너무 많다... 주말동안 정리가 가능할까 ㅠㅠ  
+            * [java - 상속은 구리다?](/java/is-extend-bad.md)  
+            * [java - 맵의 참조 관계](/java/map-reference.md)  
+            * [java - 상속 패턴](/java/extend-pattern.md)  
+            * [Programming - 함수형 패러다임의 예](/programming/functional-paradigm-example.md)  
