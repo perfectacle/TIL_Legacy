@@ -44,4 +44,9 @@ n은 1 이상의 수를 뜻한다.
             * [java - 상속은 구리다?](/01-java/is-extend-bad.md)  
             * [java - 맵의 참조 관계](/01-java/map-reference.md)  
             * [java - 상속 패턴](/01-java/extend-pattern.md)  
-            * [Programming - 함수형 패러다임의 예](/00-programming/functional-paradigm-example.md)  
+            * [Programming - 함수형 패러다임의 예](/00-programming/functional-paradigm-example.md)
+        9. 9일 - 역시 사람은 변하지 않는다. 하루종일 퍼자기만 함 ㅠㅠ  
+        10. 10일 - 정체성에 혼란을 느끼고 프론트 공부만 한 것 같다 ㅠㅠ
+            * [Typescript + TSLint + Mocha + Chai + ts-node + nyc로 모던한 프론트 엔드 테스트 환경 구축하기](https://blog.perfectacle.com/2017/12/10/ts-node-mocha-chai/)  
+            * [rollup.js를 통해 모듈 번들링하기](https://blog.perfectacle.com/2017/12/10/bundle-with-rollup)  
+            * [travis-ci와 coveralls를 이용하여 좀 더 안전하게 협업하기](https://blog.perfectacle.com/2017/12/10/travis-ci-coveralls)  
