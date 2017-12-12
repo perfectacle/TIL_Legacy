@@ -50,3 +50,8 @@ n은 1 이상의 수를 뜻한다.
             * [Typescript + TSLint + Mocha + Chai + ts-node + nyc로 모던한 프론트 엔드 테스트 환경 구축하기](https://blog.perfectacle.com/2017/12/10/ts-node-mocha-chai/)  
             * [rollup.js를 통해 모듈 번들링하기](https://blog.perfectacle.com/2017/12/10/bundle-with-rollup)  
             * [travis-ci와 coveralls를 이용하여 좀 더 안전하게 협업하기](https://blog.perfectacle.com/2017/12/10/travis-ci-coveralls)  
+        11. 11일 - 결제 데스 밸리에 도달했다... 트랜잭셔널을 항상 확인하자... 지금 당장 시급한 건 JPA 공부려나? ㅠㅠ
+            * [JPA - FetchType](/02a-jpa/fetch-type.md)
+        12. 12일 - 즐거운 회식이었다... 덕분에 다음날 커밋...  
+            * [Spring Boot - @JsonProperty](/02-spring-boot/json-property.md)  
+            * [Git - reset 취소, stash drop 취소하기](/05a-git/revert.md)  
