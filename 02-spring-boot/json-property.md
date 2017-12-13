@@ -1,5 +1,5 @@
 ---
-title: @JsonProperty 어노테이션를 getter에도 달 수 있다.
+title: JsonProperty 어노테이션를 getter에도 달 수 있다.
 ---
 
 # @JsonProperty 어노테이션를 getter에도 달 수 있다.

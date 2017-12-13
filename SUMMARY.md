@@ -11,7 +11,10 @@
   * [맵의 참조 관계](01-java/map-reference.md)
   * [Reifiable Type](01-java/reifiable-type.md)
 - Spring Boot
+  * [JsonProperty 어노테이션를 getter에도 달 수 있다.](02-spring-boot/json-property.md)
   * [Transactional 어노테이션 고찰](02-spring-boot/transactional-commit.md)
+- Jpa
+  * [Fetch Type](02a-jpa/fetch-type.md)
 - Network
   * [IP 주소](03-network/ip-address.md)
 - Aws
@@ -23,8 +26,11 @@
   * [VPC Link](04-aws/vpc-link.md)
 - Ide
   * [인텔리제이에서 빈 패키지 보이기](05-ide/intellij-show-empty-package.md)
+- Git
+  * [reset 취소, stash drop 취소하기](05a-git/revert.md)
 - Etc
   * [20121207 짜치는 놈들](06-etc/20171207.md)
   * [Character Separated Value](06-etc/character-separated-value.md)
+  * [크롬에서는 시만텍에서 발급한 SSL 인증서를 신뢰하지 않기로 하는 걸까?](06-etc/chrome-symantec.md)
   * [gitbook 설정](06-etc/gitbook-config.md)
   * [맥 OS에서 백틱(`)입력하기](06-etc/mac-os-typing-backtick.md)
