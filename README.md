@@ -57,4 +57,8 @@ n은 1 이상의 수를 뜻한다.
             * [Git - reset 취소, stash drop 취소하기](/05a-git/revert.md)  
         13. 13일 - 회식의 여파로 넘나 피곤...  
             * [ES Module을 각각의 모듈 번들러는 어떻게 번들링할까?](https://github.com/perfectacle/es-module-webpack-rollup-parcel)  
-            * [크롬에서는 시만텍에서 발급한 SSL 인증서를 신뢰하지 않기로 하는 걸까?](/06-etc/chrome-symantec.md)
+            * [크롬에서는 시만텍에서 발급한 SSL 인증서를 신뢰하지 않기로 하는 걸까?](/06-etc/chrome-symantec.md)  
+        14. 14일 - 피곤... @.@  
+            * [스태틱 메서드 모킹 및 메소드 호출할 때 NullPointerException이 발생하는 상황 해걸하기](/01-java/power-mocking.md)
+        15. 15일 - 드디어 한 주가 끝났다... 넘나 바쁜 한 주였다.  
+            * [JPA와 Lombok이 마냥 좋은 것 만은 아닌 것 같다.](/02-spring-boot/jpa-lombok.md)
