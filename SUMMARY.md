@@ -9,8 +9,10 @@
   * [For Each Vs For](01-java/for-each-vs-for.md)
   * [상속은 구리다?](01-java/is-extend-bad.md)
   * [맵의 참조 관계](01-java/map-reference.md)
+  * [스태틱 메서드 모킹 및 메소드 호출할 때 NullPointerException이 발생하는 상황 해걸하기](01-java/power-mocking.md)
   * [Reifiable Type](01-java/reifiable-type.md)
 - Spring Boot
+  * [JPA와 Lombok이 마냥 좋은 것 만은 아닌 것 같다.](02-spring-boot/jpa-lombok.md)
   * [JsonProperty 어노테이션를 getter에도 달 수 있다.](02-spring-boot/json-property.md)
   * [Transactional 어노테이션 고찰](02-spring-boot/transactional-commit.md)
 - Jpa
