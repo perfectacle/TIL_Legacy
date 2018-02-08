@@ -12,13 +12,14 @@
   * [스태틱 메서드 모킹 및 메소드 호출할 때 NullPointerException이 발생하는 상황 해걸하기](01-java/power-mocking.md)
   * [Reifiable Type](01-java/reifiable-type.md)
 - Spring Boot
-  * [JPA와 Lombok이 마냥 좋은 것 만은 아닌 것 같다.](02-spring-boot/jpa-lombok.md)
-  * [JsonProperty 어노테이션를 getter에도 달 수 있다.](02-spring-boot/json-property.md)
+  * [Jackson의 readValue, writeValueAsString, 그리고 JsonIgnore](02-spring-boot/jackson.md)
+  * [JPA와 Lombok이 마냥 좋은 것 만은 아닌 것 같다.](02-spring-boot/json-ignore.md)
   * [Transactional 어노테이션 고찰](02-spring-boot/transactional-commit.md)
 - Jpa
   * [Fetch Type](02a-jpa/fetch-type.md)
 - Network
   * [IP 주소](03-network/ip-address.md)
+  * [TCP/IP, UDP와 HTTP](03-network/tcp-ip-http.md)
 - Aws
   * [API 게이트웨이](04-aws/api-gateway.md)
   * [Elastic Beanstalk](04-aws/elastic-beanstalk.md)
